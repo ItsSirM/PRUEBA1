@@ -8,6 +8,10 @@ import java.util.ArrayList;
 
 
 public class BlockBuster {
+
+    static StringBuilder auditarMovie() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     public ArrayList <BlockBusterItem> arr = new ArrayList();
 
